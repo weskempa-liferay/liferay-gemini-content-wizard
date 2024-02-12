@@ -1,1 +1,1 @@
-# liferay-gemini-content-wizard
+# liferay-google-ai-content-wizard
